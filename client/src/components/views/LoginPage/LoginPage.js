@@ -81,14 +81,14 @@ function LoginPage(props) {
         return (
           <div className="app">
 
-            <Title level={2}>Log In</Title>
+            <Title level={2}>Log In bruh 💻⚡👀</Title>
             <form onSubmit={handleSubmit} style={{ width: '350px' }}>
 
               <Form.Item required>
                 <Input
                   id="email"
                   prefix={<Icon type="user" style={{ color: 'rgba(0,0,0,.25)' }} />}
-                  placeholder="Enter your email"
+                  placeholder="Enter your email bruh💻👀"
                   type="email"
                   value={values.email}
                   onChange={handleChange}
@@ -106,7 +106,7 @@ function LoginPage(props) {
                 <Input
                   id="password"
                   prefix={<Icon type="lock" style={{ color: 'rgba(0,0,0,.25)' }} />}
-                  placeholder="Enter your password"
+                  placeholder="Enter your password🔐"
                   type="password"
                   value={values.password}
                   onChange={handleChange}
