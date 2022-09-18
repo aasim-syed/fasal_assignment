@@ -90,3 +90,8 @@ localhost:3000/register
 
 ## Options to like dislike and reply to comments 🤌⚡
 ![image](https://user-images.githubusercontent.com/70385414/190892255-587a11cb-a5a5-4694-b995-d7278d782b03.png)
+
+
+## for search option I had already made so ill just link that here 🥲🥲
+
+https://fasal-assignment-search.vercel.app/
