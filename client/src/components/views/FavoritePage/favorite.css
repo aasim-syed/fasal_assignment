@@ -1,17 +1,21 @@
 table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-  }
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  background: url(https://c.tenor.com/A0BXWgBnrFUAAAAC/aesthetic.gif);
+  color: rgb(22, 236, 37);
+}
+
+td,
+th {
   
-  td,
-  th {
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
-  }
+  text-align: left;
+  padding: 10px;
   
-  tr:nth-child(even) {
-    background-color: #dddddd;
-  }
+  color: rgb(22, 236, 37);
+}
+
+tr:nth-child(even) {
   
+  color: rgb(234, 246, 235);
+}
