@@ -95,3 +95,4 @@ localhost:3000/register
 ## for search option I had already made so ill just link that here 🥲🥲
 
 https://fasal-assignment-search.vercel.app/
+https://github.com/aasim-syed/fasal-search-assignment
