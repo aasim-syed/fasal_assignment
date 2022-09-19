@@ -32,7 +32,7 @@ To use this application,
 ├───hoc
 ├───_actions
 ```
-#SERVER SIDE 📂🌐
+# SERVER SIDE 📂🌐
 ```
 ├───config
 ├───middleware
